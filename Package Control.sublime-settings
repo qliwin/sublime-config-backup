@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Blade Snippets",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"CodeIgniter Snippets",
+		"ColorPick",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"FindKeyConflicts",
+		"GBK Support",
+		"IMESupport",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Local History",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Material Theme",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"phpfmt",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Theme - Spacegray"
+	]
+}

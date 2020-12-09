@@ -1,0 +1,10 @@
+{
+
+    "history_retention": 0,
+    "format_timestamp": "%Y%m%d%H%M%S",
+    "history_on_close": true,
+    "history_on_focus_lost": true,
+    "history_on_load": false,
+    "history_path": "D:\\work\\backups\\sublime",
+    "portable": false
+}

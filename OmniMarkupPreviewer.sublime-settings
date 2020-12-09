@@ -1,0 +1,7 @@
+{
+    "server_host": "10.21.3.190",
+    "renderer_options-MarkdownRenderer": {
+        "extensions": ["extra", "codehilite", "tables", "fenced_code", "codehilite", "toc"]
+    },
+
+}
