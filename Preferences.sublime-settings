@@ -11,6 +11,7 @@
 	],
 	"font_size": 13,
 	"highlight_line": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Markdown",
@@ -19,6 +20,7 @@
 	"line_padding_bottom": 5,
 	"line_padding_top": 5,
 	"material_theme_arrow_folders": true,
+	"remember_open_files": false,
 	"save_on_focus_lost": true,
 	"show_encoding": true,
 	"tab_size": 4,
@@ -27,7 +29,5 @@
 	"trim_trailing_white_space_on_save": false,
 	"update_check": false,
 	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
-	"word_wrap": true,
-	"hot_exit": false,
-	"remember_open_files": false
+	"word_wrap": true
 }
